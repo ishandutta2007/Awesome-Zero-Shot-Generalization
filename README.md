@@ -82,3 +82,17 @@ How researchers measure the robust boundary limits of zero-shot models.
 | **SWE-bench** | 💻 Code | Resolving real-world software engineering GitHub issues completely end-to-end. |
 | **BIG-bench** | 🎛️ Multi-modal | Extreme out-of-distribution reasoning and pattern completion tasks. |
 
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Zero-Shot-Generalization&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Generalization&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Generalization&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Shot-Generalization&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+
