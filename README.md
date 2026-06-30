@@ -4,11 +4,15 @@
 
 # 🚀 Awesome Zero-Shot Generalization
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-Zero-Shot-Generalization/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a><a href="https://github.com/ishandutta2007/Awesome-Zero-Shot-Generalization/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a>
+</p>
+
 ## 🎯 The Zero-Shot Generalization Map
 
 > **A comprehensive reference guide for Zero-Shot Generalization—mapping learning paradigms, structural variants, cross-modal applications, and engineering benchmarks.** 🧠✨
 
-Zero-Shot Generalization is the ability of a machine learning model to successfully execute a task, classify data, or predict an output at inference time without having seen any explicit training examples of that specific task or class. 🔮⚡
+**Zero-Shot Generalization** is the capability of modern machine learning models and foundation LLMs to successfully execute tasks, classify data, or predict outputs at inference time without having seen any explicit training examples of that specific task or class. This curated repository tracks paradigms, architectural variants, prompting strategies, and evaluation benchmarks for zero-shot systems. 🔮⚡
 
 ---
 
